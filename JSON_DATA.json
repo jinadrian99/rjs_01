@@ -1,0 +1,44 @@
+let Bus = [
+    {
+        id : '1',
+        name : 'Bus A',
+        from : '1',
+        arrive : '2',
+        numCustomer : '20',
+    },
+    {
+        id : '2',
+        name : 'Bus B',
+        from : '3',
+        arrive : '4',
+        numCustomer : '15',
+    },
+    {
+        id : '3',
+        name : 'Bus C',
+        from : '5',
+        arrive : '6',
+        numCustomer : '10',
+    },
+    {
+        id : '4',
+        name : 'Bus D',
+        from : '6',
+        arrive : '7',
+        numCustomer : '10',
+    },
+    {
+        id : '5',
+        name : 'Bus E',
+        from : '7',
+        arrive : '8',
+        numCustomer : '10',
+    },
+    {
+        id : '6',
+        name : 'Bus F',
+        from : '8',
+        arrive : '9',
+        numCustomer : '10',
+    },
+]

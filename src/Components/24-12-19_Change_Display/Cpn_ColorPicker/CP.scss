@@ -1,0 +1,21 @@
+.cardColor{
+    margin-top: 20px;
+}
+.squareColor{
+    display: inline-block;
+    margin: 1.25rem;
+    width: 50px;
+    height: 50px;
+    background-color: crimson;
+    color: black;
+    font-weight: 700;
+    line-height: 115px;
+    cursor: pointer;
+}
+.active{    
+    text-transform: uppercase;
+    border: 3px solid black;
+}
+.mt-20{
+    margin-top: 20px;
+}
