@@ -1,0 +1,46 @@
+.row:first-child{
+    margin-top: 10px;
+}
+.nav-menu li:first-child{
+    padding: 0 40px 0 0;
+}
+.nav-menu li{
+    padding: 0 40px;
+}
+.mng-btn button{
+    margin: 0 2%;
+}
+.carouselExampleCaptions img{
+    width: 1040px;
+    height: 500px;
+}
+.row-items{
+    margin: 25px 0;
+}
+.item-shopping{
+    padding:5% 8%;
+}
+.item-shopping .card-body img, .content-items .card-body img{
+    width: 25px;
+    height: 25px;
+}
+.content-items{
+    position: relative;
+    left: -1.5%;
+    padding: 0;
+}
+.content-items .card-item
+{
+    border: 1px solid white;
+    margin: 1.5rem 0;
+}
+.content-items .card-item:hover
+{
+    border: 1px solid grey;
+}
+footer{
+    color: snow;
+}
+.row-shopping{
+    min-height: 450px;
+}
